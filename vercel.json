@@ -1,0 +1,12 @@
+{
+  "name": "comment",
+  "github": {
+    "silent": true
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "index.js"
+    }
+  ]
+}
